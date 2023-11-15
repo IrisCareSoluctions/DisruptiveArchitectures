@@ -11,7 +11,7 @@
 
 
 # <span style="color: #63C71F;">Protótipo</span>
-Protótipo: Sensor Ultrassom HC-SR04 e Buzzer
+Sensor Ultrassom HC-SR04 e Buzzer
 
 Sensor ultrassom simplificado HC-SR04 no Arduino. Ativa o Buzzer toda vez que sensor captar objeto a certa distância.
 
