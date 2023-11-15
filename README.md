@@ -2,6 +2,8 @@
 
 ## IrisCareSoluctions :eyes:
 
+Prevenção do Retinoblastoma por meio da análise de imagem.
+
 
 # Integrantes
 - RM94311	Marcos Henrique Bilobram dos Santos
