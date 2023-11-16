@@ -6,6 +6,7 @@ Prevenção do Retinoblastoma por meio da análise de imagem.
 
 
 # Integrantes
+- RM93915 Jaelson dos Santos
 - RM94311	Marcos Henrique Bilobram dos Santos
 - RM96320	Nathália de Queiroz Maia
 - RM94972	Rafaela Gomes da Silva
