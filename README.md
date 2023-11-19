@@ -24,7 +24,7 @@ Sensor ultrassom simplificado HC-SR04 no Arduino. Ativa o Buzzer toda vez que se
 
 Este é um projeto que utiliza a biblioteca PyQt5 em conjunto com pyqtgraph para criar uma interface gráfica que monitora e exibe dados em tempo real de um sensor ultrassônico.
 
-![image](https://github.com/IrisCareSoluctions/DisruptiveArchitectures/assets/99452621/cae6371e-ffa4-4295-a806-ab70ce17ef8c)
+![IriaCareSolutions](https://github.com/IrisCareSoluctions/DisruptiveArchitectures/assets/99452621/89f70be7-21b1-4755-8031-eba247e9e891)
 
 
 ## Pré-requisitos
