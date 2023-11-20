@@ -1,17 +1,42 @@
 # DISRUPTIVE ARCHITECTURES: IOT, IOB & IA
 
-## IrisCareSoluctions :eyes:
+# IrisCare Soluctions
 
-Prevenção do Retinoblastoma por meio da análise de imagem.
+    Aplicativo mobile para prevenção e controle do Retinoblastoma por meio da análise de imagem, 
+    controle periodico e encaminhamento para Secretaria Municipal e GRAACC.
 
 
-# Integrantes
-- RM93915 Jaelson dos Santos
-- RM94311	Marcos Henrique Bilobram dos Santos
-- RM96320	Nathália de Queiroz Maia
-- RM94972	Rafaela Gomes da Silva
-- RM93613	Vinicius de Oliveira
+# Desenvolvedores:
 
+    -> RM: 93915 -  JAELSON DOS SANTOS
+
+    -> RM: 94311 - MARCOS BILOBRAM
+
+    -> RM: 96320 - NATHÁLIA MAIA
+
+    -> RM: 94972 - RAFAELA DA SILVA
+
+    -> RM: 93613 - VINICIUS DE OLIVEIRA
+
+
+
+<div align="center"> 
+    <a href="https://github.com/JaelsonJonas">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101295166?v=4" />
+    </a>
+    <a href="https://github.com/marcosbilobram">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92834827?v=4" />
+    </a>
+    <a href="https://github.com/natmaia">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/fotoperfil.jpg" />
+    </a>
+    <a href="https://github.com/gsrafaela">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99452621?v=4" />
+    </a>
+    <a href="https://github.com/ViniOlr">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81593244?v=4" />
+    </a>
+</div>
 
 # <span style="color: #63C71F;">Protótipo</span>
 Sensor Ultrassom HC-SR04 e Buzzer
@@ -53,3 +78,11 @@ Informações dos Integrantes: Você pode acessar informações sobre os integra
 - integrantes_interface.py: Contém a definição da classe Tela_Integrantes, responsável pela interface de informações sobre os integrantes.
 - dados.py: Contém a função data(df) que gera dados simulados para o sensor ultrassônico.
 ./Arquivos/Imagens: Contém imagens utilizadas na interface.
+
+
+## Tecnologias Utilizadas
+          
+<div align="center" > 
+    <img  align="center" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />    
+    <img align="center" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="center" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
