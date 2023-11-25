@@ -1,10 +1,23 @@
-# DISRUPTIVE ARCHITECTURES: IOT, IOB & IA
-
 # IrisCare Soluctions
 
-    Aplicativo mobile para prevenção e controle do Retinoblastoma por meio da análise de imagem, 
-    controle periodico e encaminhamento para Secretaria Municipal e GRAACC.
+    O IrisCare é um aplicativo móvel desenvolvido para a prevenção e controle do Retinoblastoma, uma forma de câncer ocular, 
+    por meio da análise de imagem, controle periódico e encaminhamento para a Secretaria Municipal e GRAACC.
 
+
+<img align="center" src="https://github.com/IrisCareSoluctions/HybridMobile/blob/main/assets/evidencia4.png" />
+
+----
+# <span style="color: #63C71F;">Pitch</span>
+
+[Assista ao video Pitch](https://youtu.be/0_QOPCaIbMc)
+
+----
+
+# <span style="color: #63C71F;">Demonstração do Backend</span>
+
+[Assista ao video do back-end integrado rodando](https://www.youtube.com/watch?v=T-gVGc_Rwao)
+
+---
 
 # Desenvolvedores:
 
@@ -28,7 +41,7 @@
         <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92834827?v=4" />
     </a>
     <a href="https://github.com/natmaia">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://github.com/natmaia/arquivosFotosReadme/blob/main/fotoperfil.jpg" />
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105464103?s=96&v=4" />
     </a>
     <a href="https://github.com/gsrafaela">
         <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99452621?v=4" />
@@ -37,6 +50,12 @@
         <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81593244?v=4" />
     </a>
 </div>
+
+
+<br/>
+
+<br/>
+
 
 # <span style="color: #63C71F;">Protótipo</span>
 Sensor Ultrassom HC-SR04 e Buzzer
