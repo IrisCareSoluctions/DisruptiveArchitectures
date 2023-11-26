@@ -56,6 +56,10 @@ Informações dos Integrantes: Você pode acessar informações sobre os integra
 - dados.py: Contém a função data(df) que gera dados simulados para o sensor ultrassônico.
 ./Arquivos/Imagens: Contém imagens utilizadas na interface.
 
+# Fluxo no Node-Red
+
+![image](https://github.com/IrisCareSoluctions/DisruptiveArchitectures/assets/99452621/5187bcd0-0e5e-4358-847d-10b9e4f4353a)
+
 
 # Desenvolvedores:
 
