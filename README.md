@@ -98,6 +98,12 @@ Informações dos Integrantes: Você pode acessar informações sobre os integra
 
 <br/>
 
+# EXTRA - Análise de Imagem IA
+
+O objetivo central deste aplicativo é a leitura de imagem da irís do paciente para um identificar sintomas relacionados ao Retinoblastoma para que possa buscar um profissional da área da saúde para um diagnóstico mais preciso. A inteligência artificial criada ainda é muito limitada, luzes ou ângulos diferentes podem afetar na precisão do software, além da distância que ainda é bem sensível.
+
+[Link do repositório da análise de imagem](https://github.com/IrisCareSoluctions/AnaliseImageIA.git)
+
 
 ## Tecnologias Utilizadas
           
