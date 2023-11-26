@@ -6,9 +6,13 @@
 
 <img align="center" src="https://github.com/IrisCareSoluctions/HybridMobile/blob/main/assets/evidencia4.png" />
 
-# <span style="color: #63C71F;">Pitch</span>
+# <span style="color: #63C71F;">Vídeos</span>
 
 [Assista ao video Pitch](https://youtu.be/0_QOPCaIbMc)
+
+<br>
+
+[Assista ao video da Solução](https://youtu.be/0_QOPCaIbMc)
 
 
 # <span style="color: #63C71F;">Protótipo</span>
