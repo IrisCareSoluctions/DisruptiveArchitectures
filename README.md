@@ -6,52 +6,12 @@
 
 <img align="center" src="https://github.com/IrisCareSoluctions/HybridMobile/blob/main/assets/evidencia4.png" />
 
-----
 # <span style="color: #63C71F;">Pitch</span>
 
 [Assista ao video Pitch](https://youtu.be/0_QOPCaIbMc)
 
----
 
-# Desenvolvedores:
-
-    -> RM: 93915 -  JAELSON DOS SANTOS
-
-    -> RM: 94311 - MARCOS BILOBRAM
-
-    -> RM: 96320 - NATHÁLIA MAIA
-
-    -> RM: 94972 - RAFAELA DA SILVA
-
-    -> RM: 93613 - VINICIUS DE OLIVEIRA
-
-
-
-<div align="center"> 
-    <a href="https://github.com/JaelsonJonas">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101295166?v=4" />
-    </a>
-    <a href="https://github.com/marcosbilobram">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92834827?v=4" />
-    </a>
-    <a href="https://github.com/natmaia">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105464103?s=96&v=4" />
-    </a>
-    <a href="https://github.com/gsrafaela">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99452621?v=4" />
-    </a>
-    <a href="https://github.com/ViniOlr">
-        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81593244?v=4" />
-    </a>
-</div>
-
-
-<br/>
-
-<br/>
-
-
-# <span style="color: #63C71F;">Protótipo 1</span>
+# <span style="color: #63C71F;">Protótipo</span>
 Sensor Ultrassom HC-SR04 e Buzzer
 
 Sensor ultrassom simplificado HC-SR04 no Arduino. Ativa o Buzzer toda vez que sensor captar objeto a certa distância.
@@ -92,15 +52,43 @@ Informações dos Integrantes: Você pode acessar informações sobre os integra
 - dados.py: Contém a função data(df) que gera dados simulados para o sensor ultrassônico.
 ./Arquivos/Imagens: Contém imagens utilizadas na interface.
 
-# <span style="color: #63C71F;">Protótipo 2</span>
 
-Sistema de Monitoramento com MicroPython e MQTT
+# Desenvolvedores:
 
-# Descrição
+    -> RM: 93915 -  JAELSON DOS SANTOS
 
-Este projeto implementa um sistema de monitoramento simples usando MicroPython, um microcontrolador (como o Raspberry Pi Pico), e comunicação MQTT. O sistema consiste em um sensor de proximidade, um LED indicador, e um display LCD. Ele se conecta a um servidor MQTT para receber comandos e enviar mensagens.
+    -> RM: 94311 - MARCOS BILOBRAM
 
-![image](https://github.com/IrisCareSoluctions/DisruptiveArchitectures/assets/99452621/3c2aee3f-d73c-4c9a-a5af-78b75243b263)
+    -> RM: 96320 - NATHÁLIA MAIA
+
+    -> RM: 94972 - RAFAELA DA SILVA
+
+    -> RM: 93613 - VINICIUS DE OLIVEIRA
+
+
+
+<div align="center"> 
+    <a href="https://github.com/JaelsonJonas">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101295166?v=4" />
+    </a>
+    <a href="https://github.com/marcosbilobram">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92834827?v=4" />
+    </a>
+    <a href="https://github.com/natmaia">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/105464103?s=96&v=4" />
+    </a>
+    <a href="https://github.com/gsrafaela">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99452621?v=4" />
+    </a>
+    <a href="https://github.com/ViniOlr">
+        <img align="center" height="100" width="100" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/81593244?v=4" />
+    </a>
+</div>
+
+
+<br/>
+
+<br/>
 
 
 ## Tecnologias Utilizadas
