@@ -6,10 +6,23 @@
 
 <img align="center" src="https://github.com/IrisCareSoluctions/HybridMobile/blob/main/assets/evidencia4.png" />
 
-# <span style="color: #63C71F;">Vídeos</span>
+----
+# <span style="color: #63C71F;">Pitch</span>
 
-[Assista ao video Pitch](https://youtu.be/0_QOPCaIbMc)
+[Assista ao video Pitch](https://youtu.be/Xke6Jv6ONQ0)
 
+----
+
+# <span style="color: #63C71F;">Demonstração WebApp da Azure </span>
+
+[Assista ao video do back-end integrado rodando](https://youtu.be/YqC0E4ZScxM)
+
+<br/>
+
+  link deploy: https://api-iriscare.azurewebsites.net/swagger-ui/index.html
+
+
+---
 <br>
 
 [Assista ao video da Solução](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm94972_fiap_com_br/EU_eGNQaraFCphIOpa3gmLUBYRPTc-2StWOoEOx6swj0YA?e=pffFhC)
