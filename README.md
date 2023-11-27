@@ -18,7 +18,7 @@
 
 [Assista ao video do back-end integrado rodando](https://youtu.be/YqC0E4ZScxM)
 
-[link deploy:](https://api-iriscare.azurewebsites.net/swagger-ui/index.html)
+[link deploy](https://api-iriscare.azurewebsites.net/swagger-ui/index.html)
 
 
 # <span style="color: #63C71F;">Protótipo</span>
